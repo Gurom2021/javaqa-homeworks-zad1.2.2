@@ -27,4 +27,4 @@
 Тестирование производилось в следующем окружении:
 * PC/Desktop.Windows 7,Google Chrome Версия 90.0.4430.93 (64 бит)
 * Java 11.0.11
-* https://github.com/Gurom2021/javaqa-homeworks-zad1.2.2
+* https://github.com/Gurom2021/javaqa-homeworks-zad1.2.2/blob/master/src/Main.java
